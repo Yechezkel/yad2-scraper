@@ -1,10 +1,11 @@
+
 {
-  "telegramApiToken": null,
-  "chatId": null,
+  "telegramApiToken": "8482399093:AAFdSoJw7FVSgZQN4NL2AaIPj72e3PTgW8g",
+  "chatId": "8125686811",
   "projects": [
     {
-      "topic": "",
-      "url": ""
+      "topic": "רכבים",
+      "url": "https://www.yad2.co.il/cars/used-cars?manual=1&priceMin=10&priceMax=10000&dealer=1&city=2"
     }
   ]
 }
